@@ -21,6 +21,7 @@ An engaging and interactive Android Math game that helps users improve their ari
 1. Clone the repository:
    ```sh
    git clone https://github.com/Oluwaferanmiii/Math-Challenge.git
+   ```
 
 2. Open the project in Android Studio.
 3. Install the required dependencies.
@@ -45,17 +46,17 @@ An engaging and interactive Android Math game that helps users improve their ari
 
 ### Game Screen
 * Easy Difficulty
-  ![Easy Difficulty](https://github.com/user-attachments/assets/52f7496d-0430-471d-8cb7-48e35bf4be7d)
+![Easy Difficulty](https://github.com/user-attachments/assets/52f7496d-0430-471d-8cb7-48e35bf4be7d)
 * Medium Difficulty
-  ![Medium Difficulty](https://github.com/user-attachments/assets/691e673e-2153-4828-8160-2e7ecf117540)
+![Medium Difficulty](https://github.com/user-attachments/assets/691e673e-2153-4828-8160-2e7ecf117540)
 * Hard Difficulty
-  ![Hard Difficulty](https://github.com/user-attachments/assets/99f414ec-eb7b-46c6-afe9-1b4a2662a98d)
+![Hard Difficulty](https://github.com/user-attachments/assets/99f414ec-eb7b-46c6-afe9-1b4a2662a98d)
 
 ### Game Over Screen
 * Game Over with New Highscore
-  ![New Highscore](https://github.com/user-attachments/assets/3e529578-a6f7-4624-98e2-5148ebcb8f4d)
+![New Highscore](https://github.com/user-attachments/assets/3e529578-a6f7-4624-98e2-5148ebcb8f4d)
 * Game Over with no New Highscore
-  ![GameOver Screen](https://github.com/user-attachments/assets/c66e7512-2a02-4e72-877d-67abb19faaac)
+![GameOver Screen](https://github.com/user-attachments/assets/c66e7512-2a02-4e72-877d-67abb19faaac)
 
 ### Leaderboard Screen
 ![Leaderboard](https://github.com/user-attachments/assets/7509bf80-e134-42c2-9c8e-a4dd3abc54bd)
